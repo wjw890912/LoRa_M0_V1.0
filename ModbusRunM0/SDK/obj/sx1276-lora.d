@@ -1,0 +1,12 @@
+.\obj\sx1276-lora.o: ..\sx12xxDrivers-V2.1.0\SX12xxDrivers-V2.1.0\src\radio\sx1276-LoRa.c
+.\obj\sx1276-lora.o: C:\Keil\ARM\RV31\INC\string.h
+.\obj\sx1276-lora.o: ..\sx12xxDrivers-V2.1.0\SX12xxDrivers-V2.1.0\src\platform\platform.h
+.\obj\sx1276-lora.o: ..\sx12xxDrivers-V2.1.0\SX12xxDrivers-V2.1.0\src\platform\sx12xxEiger/sx12xxEiger.h
+.\obj\sx1276-lora.o: C:\Keil\ARM\RV31\INC\stdint.h
+.\obj\sx1276-lora.o: C:\Keil\ARM\RV31\INC\stdbool.h
+.\obj\sx1276-lora.o: ..\sx12xxDrivers-V2.1.0\SX12xxDrivers-V2.1.0\src\radio\radio.h
+.\obj\sx1276-lora.o: ..\sx12xxDrivers-V2.1.0\SX12xxDrivers-V2.1.0\src\radio\sx1276-Hal.h
+.\obj\sx1276-lora.o: ..\sx12xxDrivers-V2.1.0\SX12xxDrivers-V2.1.0\src\platform\sx12xxEiger\ioe.h
+.\obj\sx1276-lora.o: ..\sx12xxDrivers-V2.1.0\SX12xxDrivers-V2.1.0\src\radio\sx1276.h
+.\obj\sx1276-lora.o: ..\sx12xxDrivers-V2.1.0\SX12xxDrivers-V2.1.0\src\radio\sx1276-LoRaMisc.h
+.\obj\sx1276-lora.o: ..\sx12xxDrivers-V2.1.0\SX12xxDrivers-V2.1.0\src\radio\sx1276-LoRa.h
